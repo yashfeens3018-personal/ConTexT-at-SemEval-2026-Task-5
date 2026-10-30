@@ -39,7 +39,8 @@ This ranked **31st out of 79** participating teams. The main takeaway from our e
 
 ```
 .
-├── AmbiStory/                     # Task data (train / validation / test) and related files
+├── AmbiStory/ # Task data (train / validation / test) and related files
+├── Src/ #Source Code containing all our promiment experiments
 ├── WiC/                           # Word-in-Context data used for pretraining
 ├── gwsd/                          # Graded Word Sense Disambiguation data used for augmentation
 ├── scoring/                       # Scoring / evaluation scripts
